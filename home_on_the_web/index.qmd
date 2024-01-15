@@ -1,5 +1,5 @@
 ---
-title: "home_on_the_web"
+title: "Kishan's home on the Internet"
 listing:
   contents: posts
   sort: "date desc"
