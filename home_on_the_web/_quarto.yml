@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 website:
-  title: "home_on_the_web"
+  title: "Kishan's home on the Internet"
   navbar:
     right:
       - about.qmd
