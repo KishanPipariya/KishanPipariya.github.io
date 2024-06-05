@@ -3,14 +3,20 @@ project:
   output-dir: ../docs
 
 website:
+  site-url: https://kishanpipariya.github.io/
   title: "Kishan's home on the Internet"
+  description: "Kishan's personal website"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/KishanPipariya
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kishan-pipariya/
       - icon: twitter
         href: https://twitter.com/intelkishan
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme: cosmo
